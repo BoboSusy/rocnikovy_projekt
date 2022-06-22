@@ -1,0 +1,14 @@
+.geography{
+
+}
+
+.geography > h1 {
+    color: rgb(250, 154, 218);
+    text-align: center;
+    text-transform: uppercase;
+  }
+  .geography > p {
+    color: white;
+    text-align: left;
+    font-size: 120%;
+  }

@@ -1,0 +1,74 @@
+.container-cities{
+
+}
+
+.container-cities h2 {
+  color: rgb(250, 154, 218);
+    text-align: left;
+    text-transform: uppercase;
+}
+.container-cities p {
+  color: white;
+  text-align: left;
+  font-size: 120%;
+}
+.img{
+  color: white;
+  width: 100%;
+  object-fit: cover;
+  height: 500px;
+}
+
+.carousel{
+  width: 70%;
+  margin-inline: auto;
+  height: 500px;
+  position: relative;
+  overflow: hidden;
+}
+
+.logo{
+  width: 200px;
+  height: 150px;
+}
+
+.h1{
+  color: rgb(250, 154, 218);
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.container-cities {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  gap: 12px;
+}
+
+.city {
+  width: fit-content;
+  text-align: center;
+}
+
+.cards-text {
+  height: 120px;
+  overflow-y: auto;
+}
+
+.city > h2{
+  color: rgb(250, 154, 218);
+    text-align: center;
+    text-transform: uppercase;
+    padding-bottom: 15px;
+}
+
+.city > p {
+  color: white;
+  text-align: left;
+  font-size: 120%;
+  margin-top: 2%;
+}
+
+.mid-pic{
+  margin-left: 50px;
+}

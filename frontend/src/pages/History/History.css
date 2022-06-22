@@ -1,0 +1,38 @@
+.history{
+
+}
+
+.history > h1 {
+    color: rgb(250, 154, 218);
+    text-align: center;
+    text-transform: uppercase;
+  }
+  .history > h2 {
+    color: rgb(250, 154, 218);
+    text-align: left;
+    text-transform: uppercase;
+  }
+  .history > h5 {
+    color: rgb(250, 154, 218);
+    text-align: left;
+    text-transform: uppercase;
+  }
+
+  .history > p {
+    color: white;
+    text-align: left;
+    font-size: 120%;
+  }
+  .img{
+    width: 100%;
+    object-fit: cover;
+    height: 500px;
+  }
+  
+  .carousel{
+    width: 70%;
+    margin-inline: auto;
+    height: 500px;
+    position: relative;
+    overflow: hidden;
+  }

@@ -1,0 +1,11 @@
+.footer{
+    background-color: rgb(248, 198, 232);
+    color: rgb(0, 0, 0);
+    text-align: center;
+    margin: 30px;
+    padding: 20px;
+}
+
+.matej{
+    opacity: 0;
+}

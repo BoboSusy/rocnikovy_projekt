@@ -1,0 +1,29 @@
+.homepage{
+
+}
+
+.homepage > h1 {
+  color: rgb(250, 154, 218);
+  text-align: center;
+  text-transform: uppercase;
+}
+.homepage > p {
+  color: white;
+  text-align: left;
+  font-size: 120%;
+}
+.img{
+  width: 100%;
+  object-fit: cover;
+  height: 500px;
+}
+
+.carousel{
+  width: 70%;
+  margin-inline: auto;
+  height: 500px;
+  position: relative;
+  overflow: hidden;
+}
+
+
